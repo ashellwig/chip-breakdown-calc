@@ -1,0 +1,13 @@
+{
+    /* Language-Specific */
+    // Vue
+    "[vue]": {
+        "gitlens.codeLens.scopes": [
+            "document"
+        ],
+        "editor.formatOnSave": true
+    },
+    /* General Editor */
+    // Spell Checker
+    "cSpell.enabled": false
+}
